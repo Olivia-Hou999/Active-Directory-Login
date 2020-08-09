@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADlogin", "ADlogin\ADlogin.csproj", "{1FA329CF-A01D-433E-BD40-F6631C8851FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADHelper", "ADHelper\ADHelper.csproj", "{6E55A5F3-1A56-48A0-94A1-34DEB28889A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper", "DBHelper\DBHelper.csproj", "{2BB194E5-8B3D-4FB2-A11E-27CC29355A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA329CF-A01D-433E-BD40-F6631C8851FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA329CF-A01D-433E-BD40-F6631C8851FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA329CF-A01D-433E-BD40-F6631C8851FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA329CF-A01D-433E-BD40-F6631C8851FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E55A5F3-1A56-48A0-94A1-34DEB28889A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E55A5F3-1A56-48A0-94A1-34DEB28889A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E55A5F3-1A56-48A0-94A1-34DEB28889A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E55A5F3-1A56-48A0-94A1-34DEB28889A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB194E5-8B3D-4FB2-A11E-27CC29355A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB194E5-8B3D-4FB2-A11E-27CC29355A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB194E5-8B3D-4FB2-A11E-27CC29355A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB194E5-8B3D-4FB2-A11E-27CC29355A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

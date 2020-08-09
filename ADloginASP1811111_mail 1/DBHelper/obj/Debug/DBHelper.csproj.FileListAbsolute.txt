@@ -1,0 +1,10 @@
+M:\网店项目\ADLogin\ADloginASP8\DBHelper\bin\Debug\DBHelper.dll
+M:\网店项目\ADLogin\ADloginASP8\DBHelper\bin\Debug\DBHelper.pdb
+M:\网店项目\ADLogin\ADloginASP8\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+M:\网店项目\ADLogin\ADloginASP8\DBHelper\obj\Debug\DBHelper.dll
+M:\网店项目\ADLogin\ADloginASP8\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\OHOU\Desktop\ADloginASP18_mail\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\OHOU\Desktop\ADloginASP18_mail\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\OHOU\Desktop\ADloginASP18_mail\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\OHOU\Desktop\ADloginASP18_mail\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\OHOU\Desktop\ADloginASP18_mail\DBHelper\obj\Debug\DBHelper.pdb
